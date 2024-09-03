@@ -1,0 +1,30 @@
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    /* background-color: rgb(207,204,204); */
+    padding-left: 30px;
+    margin-bottom: 10px;
+  }
+  .row input{
+    /* flex: 1; */
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    /* background-color: transparent; */
+    font-size: 17px;
+    padding: 12px;
+    
+  }
+  button{
+    border: none;
+    outline: none;
+    background-color: rgb(58, 36, 7);
+    font-size: 15px;
+    border-radius: 50%;
+    padding: 15px;
+    color: white;
+    margin-left: 10px;
+    cursor :pointer;
+  }
